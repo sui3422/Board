@@ -1,11 +1,11 @@
 import React from 'react';
-import BoardBody from "./Components/BoardBody";
+import Routes from "./router";
 
 function App() {
 
     return (
         <>
-            <BoardBody/>
+            <Routes/>
         </>
     );
 }
